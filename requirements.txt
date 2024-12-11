@@ -1,0 +1,15 @@
+easyocr==1.7.2
+fastapi==0.115.5
+numpy==2.1.3
+<<<<<<< HEAD
+opencv-python==4.10.0.84
+pillow==11.0.0
+requests==2.32.3
+uvicorn==0.32.1
+pyngrok==7.2.1
+=======
+opencv-python-headless==4.10.0.84
+pillow==11.0.0
+requests==2.32.3
+gunicorn
+>>>>>>> 897658373f51f7ef6578fe6e5c647aed3b1fe82c
